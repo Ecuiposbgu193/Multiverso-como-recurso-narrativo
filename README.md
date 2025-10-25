@@ -1,4 +1,4 @@
-                                                                     Multiverso como recurso narrativo
+                                           Multiverso como recurso narrativo
 
             ![Multiverso2](https://github.com/user-attachments/assets/2c1726f9-dc16-41cc-90cc-73bfccd189d7)
 
@@ -8,4 +8,4 @@ En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas c
 Marvel con su obra What If donde cada episodio es un universo diferente con tramas diferentes, episodios con diferentes finales a los canonicos, 
 diferentes o cambios de roles entre los personajes, etc.
                                                                        
-                                                                        Trabajo en construccion...
+                                                 Trabajo en construccion...
