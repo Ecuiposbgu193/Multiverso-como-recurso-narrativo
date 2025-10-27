@@ -1,6 +1,7 @@
 Multiverso como recurso narrativo
   
-  ![Multiverso](https://github.com/user-attachments/assets/d6e013fb-9dd2-415f-9ebb-73ff7cac71e5)
+  ![Imagen de WhatsApp 2025-10-27 a las 10 23 46_d2f377b8](https://github.com/user-attachments/assets/2275aa37-864b-4daf-9019-2374efe4c45f)
+
 
 "Todo es posible cerca del infinito"
                                 
