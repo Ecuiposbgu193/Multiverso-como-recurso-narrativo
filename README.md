@@ -1,6 +1,5 @@
                                            Multiverso como recurso narrativo
 
-                              <img src="foto.jpg" alt="Multiverso">
 
 "Todo es posible cerca del infinito"
 En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas como: -Como se utilizan en las obras -Significados sobre el multiverso en diferentes perspectivas 
