@@ -1,6 +1,7 @@
                                            Multiverso como recurso narrativo
                                         
-                      ![Multiverso](https://github.com/user-attachments/assets/28d892e1-2c5e-452e-ac28-baba54679a32)
+                    ![Multiverso](https://github.com/user-attachments/assets/dbc092dd-94fd-48d7-bbfd-47c3ec959cf1)
+
 
 
                                                          "Todo es posible cerca del infinito"
