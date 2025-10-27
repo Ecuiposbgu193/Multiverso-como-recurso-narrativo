@@ -1,6 +1,7 @@
                                            Multiverso como recurso narrativo
                                         
-                    ![Multiverso](https://github.com/user-attachments/assets/dbc092dd-94fd-48d7-bbfd-47c3ec959cf1)
+![Multiverso](https://github.com/user-attachments/assets/d6e013fb-9dd2-415f-9ebb-73ff7cac71e5)
+
 
 
 
