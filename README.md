@@ -10,7 +10,5 @@ Marvel con su obra What If donde cada episodio es un universo diferente con tram
 ![M2](https://github.com/user-attachments/assets/3b2a3046-9906-472a-98aa-0ebf0554f71d)
 
 
-<img width="957" height="548" alt="image" src="https://github.com/user-attachments/assets/ffdd6633-8277-41ac-8820-17d86e1a3b1a" />
-
             
                                   Trabajo en construccion...
