@@ -10,6 +10,6 @@ Marvel con su obra What If donde cada episodio es un universo diferente con tram
 ![M2](https://github.com/user-attachments/assets/3b2a3046-9906-472a-98aa-0ebf0554f71d)
 
 
-https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/Perspectiva%20filosofica.JPG
+
             
                                   Trabajo en construccion...
