@@ -10,5 +10,7 @@ Marvel con su obra What If donde cada episodio es un universo diferente con tram
 ![M2](https://github.com/user-attachments/assets/3b2a3046-9906-472a-98aa-0ebf0554f71d)
 
 
-            
+            [Perspectiva filosófica.txt](https://github.com/user-attachments/files/23466598/Perspectiva.filosofica.txt)1. 
+
+
                                   Trabajo en construccion...
