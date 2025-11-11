@@ -10,7 +10,34 @@ Marvel con su obra What If donde cada episodio es un universo diferente con tram
 ![M2](https://github.com/user-attachments/assets/3b2a3046-9906-472a-98aa-0ebf0554f71d)
 
 
-            [Perspectiva filosófica.txt](https://github.com/user-attachments/files/23466598/Perspectiva.filosofica.txt)1. 
+Una argumentacion hecha por los investigadores/científicos:
+Hugh Everett III um físico estadounidense dice lo siguiente sobre el multiverso:
+> Como investigador, propuse la teoría de los muchos mundos. Creo que cada vez que ocurre una decisión cuántica, el universo se divide, creando infinitas realidades paralelas. En una, tú lees esto; en otra, quizás nunca lo haces. No son fantasía, son consecuencias matemáticas de la mecánica cuántica.
+
+Stephen Hawking un muy conocido Físico teórico y cosmólogo dice lo siguiente:
+> Desde mi perspectiva, el multiverso es una consecuencia natural de la inflación cósmica. Existen infinitos universos, cada uno con diferentes leyes físicas. Nuestro universo no es único; simplemente es uno de los tantos que pueden existir en el vasto paisaje del cosmos.
+
+Brian Greene (Físico y divulgador científico) dice esto:
+> “Yo considero el multiverso como una posibilidad real dentro de la física moderna. Las teorías de cuerdas y la inflación cósmica sugieren múltiples universos. Aunque aún no podemos probarlo directamente, su existencia podría explicar por qué nuestro universo tiene las condiciones exactas para la vida.”
+
+Max Tegmark un Cosmólogo dice:
+> Para mí, los multiversos pueden clasificarse en niveles. Desde simples regiones inalcanzables del espacio hasta realidades con leyes físicas distintas. Creo que todo lo que puede existir matemáticamente, existe físicamente en algún nivel del multiverso.
+
+Despues de un analisis a las perspectivas cientificas pasamos a dar un punto filosofico
+
+Filósofos
+
+David Lewis dice:
+> Yo defiendo el realismo modal: todos los mundos posibles existen realmente, no solo como ideas. Cada posible versión de los hechos ocurre en un universo distinto. No es que imaginemos alternativas; esas alternativas existen de verdad.
+
+Nick Bostrom Filósofo contemporáneo da su postura sobre el tema la cual es:
+> Desde mi postura, el multiverso puede estar relacionado con la hipótesis de la simulación. Es posible que vivamos dentro de una realidad creada por seres más avanzados, mientras que otros universos son otras simulaciones. La cuestión no es si existen, sino en cuál de todas estamos.
+
+Gottfried Wilhelm Leibniz Filósofo clásico dice:
+> Yo sostenía que Dios creó el mejor de los mundos posibles. En ese sentido, el concepto de multiverso implicaría que existen infinitos mundos posibles, pero solo uno —el nuestro— fue elegido por tener el mejor equilibrio entre orden y libertad.
+
+Immanuel Kant un filósofo alemán dice:
+> Para mí, el multiverso sería una idea regulativa: algo que no podemos experimentar directamente, pero que sirve para ampliar el pensamiento. Nos invita a pensar más allá de los límites de la experiencia posible.
 
 
                                   Trabajo en construccion...
