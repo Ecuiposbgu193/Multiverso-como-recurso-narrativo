@@ -9,8 +9,8 @@ Marvel con su obra What If donde cada episodio es un universo diferente con tram
 
 ![M2](https://github.com/user-attachments/assets/3b2a3046-9906-472a-98aa-0ebf0554f71d)
 
-
-Una argumentacion hecha por los investigadores/científicos:
+El multiverso es la teoria de la existencia de mas dimensiones que existen en un espacio mas alla del cosmos y el universo donde lo que existe son variables del universo que ya conocemos por ejemplo si en este universo el color verde en un semaforo significa avance en otro universo el color que indique esta accion podria ser otro
+para dar un ejemplo imagina que tienes varias hojas para dibujar para representar un universo puedes en la primer hoja dibujar una linea y de aqui en la segunda hoja el dibujo no es una linea sino un circulo,para hablar sobre un universo no es necesario decir que todo es diferente es posible que sea asi,pero lo que se habla sobre el multiverso es que los universos tienen una variacion y que ninguno es similar a los otros una argumentacion hecha por algunos investigadores y científicos dice lo siguiente:
 Hugh Everett III um físico estadounidense dice lo siguiente sobre el multiverso:
 > Como investigador, propuse la teoría de los muchos mundos. Creo que cada vez que ocurre una decisión cuántica, el universo se divide, creando infinitas realidades paralelas. En una, tú lees esto; en otra, quizás nunca lo haces. No son fantasía, son consecuencias matemáticas de la mecánica cuántica.
 
