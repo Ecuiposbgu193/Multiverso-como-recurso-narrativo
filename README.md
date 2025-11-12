@@ -9,6 +9,28 @@ Marvel con su obra What If donde cada episodio es un universo diferente con tram
 
 ![M2](https://github.com/user-attachments/assets/3b2a3046-9906-472a-98aa-0ebf0554f71d)
 
+La teoría del universo Amala en Shin Megami Tensei es un concepto complejo que abarca múltiples dimensiones y planos de existencia. Según la serie, Amala se refiere a un reino o estructura que conecta varios mundos y universos, permitiendo viajar entre ellos.
+
+Orígenes y Significado
+
+El término "Amala" proviene del sánscrito "amara", que significa "inmortal". En el contexto de Shin Megami Tensei, Amala se asocia con la idea de un reino o dominio que trasciende el tiempo y el espacio.¹
+
+La Red Amala
+
+La Red Amala es un sistema de control que aprovecha el flujo de Magatsuhi, una forma de energía que conecta los mundos. Esta red permite viajar instantáneamente entre terminales, conocidas como Amala Drums, que están ubicadas en diferentes partes del mundo.²
+
+Multiverso
+
+La serie Shin Megami Tensei sugiere que existen múltiples universos paralelos, cada uno con su propia versión de la realidad. Estos universos pueden interactuar entre sí a través de la Red Amala o mediante otros medios. Según algunas teorías, el multiverso está dividido en grupos de universos que pueden interactuar entre sí, pero requieren entidades poderosas para intervenir y permitir el viaje entre ellos.³
+
+Conexiones y Viajes
+
+Los personajes y demonios en la serie pueden viajar entre mundos y universos a través de la Red Amala o mediante otros medios. Sin embargo, estos viajes pueden ser peligrosos y requieren una gran cantidad de energía y conocimiento.
+
+Implicaciones
+
+La teoría del universo Amala tiene implicaciones profundas en la serie Shin Megami Tensei, ya que sugiere que los eventos en un mundo pueden tener consecuencias en otros mundos y universos. Esto agrega una capa de complejidad a la narrativa y permite explorar temas como la naturaleza de la realidad y el destino.
+
 El multiverso es la teoria de la existencia de mas dimensiones que existen en un espacio mas alla del cosmos y el universo donde lo que existe son variables del universo que ya conocemos por ejemplo si en este universo el color verde en un semaforo significa avance en otro universo el color que indique esta accion podria ser otro
 para dar un ejemplo imagina que tienes varias hojas para dibujar para representar un universo puedes en la primer hoja dibujar una linea y de aqui en la segunda hoja el dibujo no es una linea sino un circulo,para hablar sobre un universo no es necesario decir que todo es diferente es posible que sea asi,pero lo que se habla sobre el multiverso es que los universos tienen una variacion y que ninguno es similar a los otros una argumentacion hecha por algunos investigadores y científicos dice lo siguiente:
 Hugh Everett III um físico estadounidense dice lo siguiente sobre el multiverso:
