@@ -31,7 +31,8 @@ Implicaciones
 
 La teoría del universo Amala tiene implicaciones profundas en la serie Shin Megami Tensei, ya que sugiere que los eventos en un mundo pueden tener consecuencias en otros mundos y universos. Esto agrega una capa de complejidad a la narrativa y permite explorar temas como la naturaleza de la realidad y el destino.
 
-![ff459d1d-dbaa-4be2-b8bc-42039f0a478f](https://github.com/user-attachments/assets/56908843-8593-487c-a741-44465a12d31f)
+![x](https://github.com/user-attachments/assets/6fbae6a9-2910-47a8-b007-8023b0e52f47)
+
 
 
 El multiverso es la teoria de la existencia de mas dimensiones que existen en un espacio mas alla del cosmos y el universo donde lo que existe son variables del universo que ya conocemos por ejemplo si en este universo el color verde en un semaforo significa avance en otro universo el color que indique esta accion podria ser otro
