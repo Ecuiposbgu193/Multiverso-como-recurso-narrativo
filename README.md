@@ -67,10 +67,7 @@ Immanuel Kant un filósofo alemán dice:
 
 > Universo 1312(La torre del reloj roto)<
 
-
-> Descripcion: Esta dimension presenta un cambio notable al de nuestro universo ya que en este el gran reloj de londres(el Bigben)
-> esta destruido debido a que en este mundo se desato una guerra donde una parte de europa fue destruida,
-> mientras tanto el continente asiatico ya no existe<                                                                                                                                                                         >Clasificacion: tipo B<
+> Descripcion: Esta dimension presenta un cambio notable al de nuestro universo ya que en este el gran reloj de londres(el Bigben) esta destruido debido a que en este mundo se desato una guerra donde una parte de europa fue destruida,mientras tanto el continente asiatico ya no existe                                                                                                                                     Clasificacion: tipo B<
 
 
 
