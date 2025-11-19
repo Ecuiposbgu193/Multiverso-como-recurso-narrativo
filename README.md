@@ -67,7 +67,7 @@ Immanuel Kant un filósofo alemán dice:
 
                                                                         "Clasificación de los Multiversos"
 
-
+https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/Fichas%20multiversos.pptx
 
 
 Trabajo en construccion...
