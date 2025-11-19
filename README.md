@@ -68,6 +68,9 @@ Immanuel Kant un filósofo alemán dice:
                                                                         "Clasificación de los Multiversos"
 
 
+
+
+
 Universo 1:
 <img width="791" height="426" alt="image" src="https://github.com/user-attachments/assets/3543b4ef-2361-4457-a434-057e41dc947c" /> 
 
