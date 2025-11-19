@@ -65,5 +65,5 @@ Gottfried Wilhelm Leibniz Filósofo clásico dice:
 Immanuel Kant un filósofo alemán dice:
 > Para mí, el multiverso sería una idea regulativa: algo que no podemos experimentar directamente, pero que sirve para ampliar el pensamiento. Nos invita a pensar más allá de los límites de la experiencia posible.
 
->Nombre<                                                                                                                                                                              > Descripcion <                                                                                                                                                                >Clasificacion<
+> Nombre<                                                                                                                                                                                  > Descripcion <                                                                                                                                                                            > Clasificacion<
                                   Trabajo en construccion...
