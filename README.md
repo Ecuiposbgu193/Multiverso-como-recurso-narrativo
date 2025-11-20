@@ -72,14 +72,19 @@ Immanuel Kant un filósofo alemán dice:
                              <img width="791" height="426" alt="image" src="https://github.com/user-attachments/assets/3543b4ef-2361-4457-a434-057e41dc947c" /> 
 
 
+>
+>
 >Universo 2:
                              <img width="673" height="362" alt="image" src="https://github.com/user-attachments/assets/f0ac2b8b-deff-4c1a-80e9-9429cc8ec7f4" /> 
 
+>
+>
 
 >Universo 3:
                              <img width="826" height="400" alt="image" src="https://github.com/user-attachments/assets/18168f70-6ecd-444d-b958-9351ed715944" /> 
 
-
+>
+>
 
 
 Reporte de Errores:
