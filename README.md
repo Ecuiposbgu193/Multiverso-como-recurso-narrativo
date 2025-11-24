@@ -48,7 +48,7 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 </p>
 
 <div style="display: flex; align-items: center;">
-  <img src="F1.jpg" width="200" style="margin-right: 20px;">
+  <img src="F1.jpg" width="150" style="margin-right: 20px;">
 
   <p>
     David Lewis dice:
@@ -58,7 +58,7 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="F2.jpg" width="200" style="margin-right: 20px;">
+  <img src="F2.jpg" width="150" style="margin-right: 20px;">
 
   <p>
    Nick Bostrom Filósofo contemporáneo da su postura sobre el tema la cual es:
@@ -68,7 +68,7 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="F3.jpg" width="200" style="margin-right: 20px;">
+  <img src="F3.jpg" width="150" style="margin-right: 20px;">
 
   <p>
   Gottfried Wilhelm Leibniz Filósofo clásico dice:
@@ -78,7 +78,7 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="F4.jpg" width="200" style="margin-right: 20px;">
+  <img src="F4.jpg" width="150" style="margin-right: 20px;">
 
   <p>
  Immanuel Kant un filósofo alemán dice:
@@ -87,11 +87,13 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 </div>
 
 
-                                             >"Clasificación de los Multiversos"
+<p style="text-align:center; font-size:28px;">
+  "Clasificacion de los multiversos"
+</p>
 
 
 >Universo 1:
-                                             <img width="791" height="426" alt="image" src="https://github.com/user-attachments/assets/3543b4ef-2361-4457-a434-057e41dc947c" /> 
+                                             <img width="791" height="362" alt="image" src="https://github.com/user-attachments/assets/3543b4ef-2361-4457-a434-057e41dc947c" /> 
 
 
 >
@@ -103,7 +105,7 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 >
 
 >Universo 3:
-                                             <img width="826" height="400" alt="image" src="https://github.com/user-attachments/assets/18168f70-6ecd-444d-b958-9351ed715944" /> 
+                                             <img width="826" height="362" alt="image" src="https://github.com/user-attachments/assets/18168f70-6ecd-444d-b958-9351ed715944" /> 
 
 >
 >
