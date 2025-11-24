@@ -6,13 +6,15 @@
 <p align="center">
   "Todo es posible cerca del multiverso"
 </p>
+
+  </p>
+</div>
+
 En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas como:
 -Como se utilizan en las obras
 -Significados sobre el multiverso en diferentes perspectivas
 -EI pensamiento sobre el multiverso Hay personas que en sus obras hablan,meten o tiene de tema principal sobre el multiverso ;por ejemplo:
 Marvel con su obra What If donde cada episodio es un universo diferente con tramas diferentes,episodios con diferentes finales a los canonicos,diferentes o cambios de roles entre los personajes, etc.
-  </p>
-</div>
 
 <div style="display: flex; align-items: center;">
   <img src="M2.jpg" width="300" style="margin-right: 20px;">
