@@ -1,7 +1,7 @@
-![M1](https://github.com/user-attachments/assets/ee8a4740-fec6-4fb2-9767-ebb0cc6b8da6)["Todo es posible cerca del infinito"
+![M1](https://github.com/user-attachments/assets/ee8a4740-fec6-4fb2-9767-ebb0cc6b8da6)[["Todo es posible cerca del infinito"
 En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas como:-Como se utilizan en las obras-Significados sobre el multiverso en diferentes perspectivas-EI pensamiento sobre el multiverso Hay personas que en sus obras hablan,meten o tiene de tema principal sobre el multiverso ;por ejemplo:
 Marvel con su obra What If donde cada episodio es un universo diferente con tramas diferentes,episodios con diferentes finales a los canonicos, diferentes o cambios de roles entre los personajes, etc.](https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/LemayDescripcion)](https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/Lema%20y%20descripcion)
-](https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/Lema%20y%20descripcion)
+](https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/Lema%20y%20descripcion)](https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/Lema%20y%20descripcion)
 ![M2](https://github.com/user-attachments/assets/a3e1f1a9-87a3-4eda-9954-5242dfddc9b5) La teoría del universo Amala en Shin Megami Tensei es un concepto complejo que abarca múltiples dimensiones y planos de existencia. Según la serie, Amala se refiere a un reino o estructura que conecta varios mundos y universos, permitiendo viajar entre ellos.
 Orígenes y Significado
 El término "Amala" proviene del sánscrito "amara", que significa "inmortal". En el contexto de Shin Megami Tensei, Amala se asocia con la idea de un reino o dominio que trasciende el tiempo y el espacio.¹
