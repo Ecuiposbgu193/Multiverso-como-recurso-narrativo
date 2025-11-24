@@ -121,9 +121,11 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 </div>
 
 
->
-Reporte de Errores:
 
-             "multiverso025@gmail.com"
+
+
+<h1 style="text-align:center;"> Reporte de Errores:</h1>
+
+"multiverso025@gmail.com"
 
 
