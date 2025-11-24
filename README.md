@@ -16,7 +16,7 @@ episodios con diferentes finales a los canonicos,diferentes o cambios de roles e
 
 
 <p style="text-align:center; font-size:28px;">
- <span style="color:blue;">"LA TEORIA DEL MULTIVERSO"</span> 
+ <span style="color💮;">"LA TEORIA DEL MULTIVERSO"</span> 
 </p>
 <div style="display: flex; align-items: center;">
   <img src="x.jpg" width="300" style="margin-right: 20px;">
