@@ -12,7 +12,9 @@ Todo es posible cerca del multiverso En esta pagina veras lo que seria los multi
 </div>
 
 
-<p style="text-align:center; font-size:28px;">"La teoria del multiverso"</p>
+<p style="text-align:center; font-size:28px;">
+  "LA TEORIA DEL MULTIVERSO"
+</p>
 <div style="display: flex; align-items: center;">
   <img src="x.jpg" width="300" style="margin-right: 20px;">
 
