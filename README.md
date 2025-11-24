@@ -1,4 +1,4 @@
- > "Todo es posible cerca del infinito"                                                                                                     ![M1](https://github.com/user-attachments/assets/97920ceb-9088-4c44-9a86-8e57aafd23b0)
+ >                                                                                                     ![M1](https://github.com/user-attachments/assets/97920ceb-9088-4c44-9a86-8e57aafd23b0) "Todo es posible cerca del infinito" 
 
 En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas como:
 -Como se utilizan en las obras-Significados sobre el multiverso en diferentes perspectivas
