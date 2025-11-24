@@ -3,10 +3,8 @@
   <img src="M1.jpg" width="300" style="margin-right: 20px;">
  <p>
 
-<p align="center">
-  "Todo es posible cerca del multiverso"
-</p>
-
+   <h1 style="text-align:center;">Todo es posible cerca del multiverso</h1>
+   
   </p>
 </div>
 
