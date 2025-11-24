@@ -95,17 +95,25 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
   "CLASIFICACION DE LOS MULTIVERSOS"
 </p>
 
-
->Universo 1:
+<p align="center">
+ >Universo 1:
+</p>
 <div style="display:flex; align-items:center;">
 <img src="Ficha1311.png" width="300">
 </div>
 
->Universo 2:
+
+<p align="center">
+ >Universo 2:
+</p>
  <div style="display:flex; align-items:center;">
 <img src="Ficha1312.png" width="300">
 </div>
->Universo 3:
+
+
+<p align="center">
+ >Universo 3:
+</p>
 <div style="display:flex; align-items:center;">
   <img src="Ficha1313.png" width="300">
 </div>
