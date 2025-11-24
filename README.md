@@ -99,9 +99,9 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 
 
             
-            Universo 1:
+        Universo 1:
 <div style="display:flex; align-items:center;">
-<img src="Ficha1311.png" width="300">
+<img src="Ficha1311.png" width="350">
 </div>
 
 
@@ -109,15 +109,15 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
          
          Universo 2:
  <div style="display:flex; align-items:center;">
-<img src="Ficha1312.png" width="300">
+<img src="Ficha1312.png" width="350">
 </div>
 
 
 
               
-              Universo 3:
+          Universo 3:
 <div style="display:flex; align-items:center;">
-  <img src="Ficha1313.png" width="300">
+  <img src="Ficha1313.png" width="350">
 </div>
 
 
