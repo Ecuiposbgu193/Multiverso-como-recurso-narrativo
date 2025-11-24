@@ -1,5 +1,5 @@
 <div style="display:flex; align-items:center;">
-  <img src="https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/M1.jpg" width="250">
+  <img src="https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/M1.jpg" width="70">
   <p style="margin-left:20px;">
    "Todo es posible cerca del infinito"
 
