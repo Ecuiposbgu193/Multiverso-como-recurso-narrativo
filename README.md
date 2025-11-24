@@ -1,5 +1,4 @@
 
-
 "Todo es posible cerca del infinito" 
 
 ![M1](https://github.com/user-attachments/assets/ee8a4740-fec6-4fb2-9767-ebb0cc6b8da6)
