@@ -1,9 +1,7 @@
-
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/M1.jpg" width="300" style="margin-right: 20px;">
-
-  <p>
-"Todo es posible cerca del infinito"
+<div style="display:flex; align-items:center;">
+  <img src="https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/M1.jpg" width="250">
+  <p style="margin-left:20px;">
+   "Todo es posible cerca del infinito"
 
 
 En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas como:
@@ -17,8 +15,6 @@ En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas c
 Marvel con su obra What If donde cada episodio es un universo diferente con tramas diferentes,episodios con diferentes finales a los canonicos,diferentes o cambios de roles entre los personajes, etc.
   </p>
 </div>
-
-
 
 ![M2](https://github.com/user-attachments/assets/a3e1f1a9-87a3-4eda-9954-5242dfddc9b5) 
 La teoría del universo Amala en Shin Megami Tensei es un concepto complejo que abarca múltiples dimensiones y planos de existencia. Según la serie, Amala se refiere a un reino o estructura que conecta varios mundos y universos, permitiendo viajar entre ellos.
