@@ -97,13 +97,18 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 
 
 >Universo 1:
-                                             <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/3543b4ef-2361-4457-a434-057e41dc947c" /> 
+<div style="display:flex; align-items:center;">
+<img src="Ficha1311.png" width="250">
+</div>
 
 >Universo 2:
-                                             <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/f0ac2b8b-deff-4c1a-80e9-9429cc8ec7f4" /> 
-
+ <div style="display:flex; align-items:center;">
+<img src="Ficha1312.png" width="250">
+</div>
 >Universo 3:
-                                             <img width="300" height="160" alt="image" src="https://github.com/user-attachments/assets/18168f70-6ecd-444d-b958-9351ed715944" /> 
+<div style="display:flex; align-items:center;">
+  <img src="Ficha1313.png" width="250">
+</div>
 
 >
 Reporte de Errores:
