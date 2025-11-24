@@ -2,6 +2,7 @@
   <img src="M1.jpg" width="300" style="margin-right: 20px;">
 
   <p>
+>"Todo es posible cerca del multiverso"
 En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas como:
 -Como se utilizan en las obras
 -Significados sobre el multiverso en diferentes perspectivas
