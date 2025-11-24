@@ -1,4 +1,7 @@
+
 https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/Lema%20y%20descripcion
+
+
 ![M2](https://github.com/user-attachments/assets/a3e1f1a9-87a3-4eda-9954-5242dfddc9b5) La teoría del universo Amala en Shin Megami Tensei es un concepto complejo que abarca múltiples dimensiones y planos de existencia. Según la serie, Amala se refiere a un reino o estructura que conecta varios mundos y universos, permitiendo viajar entre ellos.
 Orígenes y Significado
 El término "Amala" proviene del sánscrito "amara", que significa "inmortal". En el contexto de Shin Megami Tensei, Amala se asocia con la idea de un reino o dominio que trasciende el tiempo y el espacio.¹
