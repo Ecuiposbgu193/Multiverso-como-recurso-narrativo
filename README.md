@@ -1,3 +1,15 @@
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Ecuaposbug193/El-multiverso-como-recurso-narrativo/main/multiverso.png" width="300" style="margin-right: 20px;">
+
+  <p>
+    En esta página verás lo que serían los multiversos en la ficción.  
+    Veremos temas como: cómo se utilizan en las obras, significados sobre el tiempo,
+    diferentes realidades y mucho más.
+  </p>
+</div>
+
+
+
 <div style="display:flex; align-items:center;">
   <img src="![M1](https://github.com/user-attachments/assets/3e640375-7a46-4606-bf4e-8007795fbb34)" width="250">
   <p style="margin-left:20px;"> En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas como:
