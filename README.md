@@ -3,9 +3,7 @@
   <img src="https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/M1.jpg" width="300" style="margin-right: 20px;">
 
   <p>
-    En esta página verás lo que serían los multiversos en la ficción.  
-    Veremos temas como: cómo se utilizan en las obras, significados sobre el tiempo,
-    diferentes realidades y mucho más.
+   https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/Lema%20y%20descripcion
   </p>
 </div>
 
