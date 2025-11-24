@@ -1,4 +1,6 @@
 <p style="text-align:center; font-size:28px;">"MULTIVERSO COMO RECURSO NARRATIVO"</p>
+
+
 <div style="display: flex; align-items: center;">
   <img src="M1.jpg" width="300" style="margin-right: 20px;">
  <p>
@@ -95,25 +97,22 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
   "CLASIFICACION DE LOS MULTIVERSOS"
 </p>
 
-<p align="center">
- >Universo 1:
-</p>
+>
+<h2 style="text-align:center;">Universo 1:</h2>
 <div style="display:flex; align-items:center;">
 <img src="Ficha1311.png" width="300">
 </div>
 
 
-<p align="center">
- >Universo 2:
-</p>
+>
+<h2 style="text-align:center;">Universo 2:</h2>
  <div style="display:flex; align-items:center;">
 <img src="Ficha1312.png" width="300">
 </div>
 
 
-<p align="center">
- >Universo 3:
-</p>
+>
+<h2 style="text-align:center;">Universo 3:</h2>
 <div style="display:flex; align-items:center;">
   <img src="Ficha1313.png" width="300">
 </div>
