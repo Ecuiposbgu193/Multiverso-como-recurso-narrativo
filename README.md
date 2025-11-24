@@ -3,16 +3,15 @@
   <img src="M1.jpg" width="300" style="margin-right: 20px;">
  <p>
 
-   <h1 style="text-align:center;">Todo es posible cerca del multiverso</h1>
+   <h1 style="text-align:center;">Todo es posible cerca del multiverso En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas como:
+-Como se utilizan en las obras
+-Significados sobre el multiverso en diferentes perspectivas
+-EI pensamiento sobre el multiverso Hay personas que en sus obras hablan,meten o tiene de tema principal sobre el multiverso ;por ejemplo:Marvel con su obra What If donde cada episodio es un universo diferente con tramas diferentes,episodios con diferentes finales a los canonicos,diferentes o cambios de roles entre los personajes, etc.</h1>
    
   </p>
 </div>
 
-En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas como:
--Como se utilizan en las obras
--Significados sobre el multiverso en diferentes perspectivas
--EI pensamiento sobre el multiverso Hay personas que en sus obras hablan,meten o tiene de tema principal sobre el multiverso ;por ejemplo:
-Marvel con su obra What If donde cada episodio es un universo diferente con tramas diferentes,episodios con diferentes finales a los canonicos,diferentes o cambios de roles entre los personajes, etc.
+
 <p style="text-align:center; font-size:28px;">"La teoria del multiverso"</p>
 <div style="display: flex; align-items: center;">
   <img src="x.jpg" width="300" style="margin-right: 20px;">
