@@ -43,8 +43,10 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
   </p>
 </div>
 
+<p style="text-align:center; font-size:28px;">
+ "Multiverso segun los filosofos"
+</p>
 
-Filósofos
 <div style="display: flex; align-items: center;">
   <img src="F1.jpg" width="200" style="margin-right: 20px;">
 
