@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Ecuaposbug193/El-multiverso-como-recurso-narrativo/main/multiverso.png" width="300" style="margin-right: 20px;">
+  <img src="[https://raw.githubusercontent.com/Ecuaposbug193/El-multiverso-como-recurso-narrativo/main/multiverso.png](https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/M1.jpg)" width="300" style="margin-right: 20px;">
 
   <p>
     En esta página verás lo que serían los multiversos en la ficción.  
