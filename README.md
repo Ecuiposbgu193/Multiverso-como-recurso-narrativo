@@ -11,11 +11,11 @@ Marvel con su obra What If donde cada episodio es un universo diferente con tram
   </p>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <img src="M2.jpg" width="300" style="margin-right: 20px;">
 
-![M2](https://github.com/user-attachments/assets/a3e1f1a9-87a3-4eda-9954-5242dfddc9b5) 
-
-
-La teoría del universo Amala en Shin Megami Tensei es un concepto complejo que abarca múltiples dimensiones y planos de existencia. Según la serie, Amala se refiere a un reino o estructura que conecta varios mundos y universos, permitiendo viajar entre ellos.
+  <p>
+   La teoría del universo Amala en Shin Megami Tensei es un concepto complejo que abarca múltiples dimensiones y planos de existencia. Según la serie, Amala se refiere a un reino o estructura que conecta varios mundos y universos, permitiendo viajar entre ellos.
 Orígenes y Significado
 El término "Amala" proviene del sánscrito "amara", que significa "inmortal". En el contexto de Shin Megami Tensei, Amala se asocia con la idea de un reino o dominio que trasciende el tiempo y el espacio.¹
 La Red Amala
@@ -26,6 +26,10 @@ Conexiones y Viajes
 Los personajes y demonios en la serie pueden viajar entre mundos y universos a través de la Red Amala o mediante otros medios. Sin embargo, estos viajes pueden ser peligrosos y requieren una gran cantidad de energía y conocimiento.
 Implicaciones
 La teoría del universo Amala tiene implicaciones profundas en la serie Shin Megami Tensei, ya que sugiere que los eventos en un mundo pueden tener consecuencias en otros mundos y universos. Esto agrega una capa de complejidad a la narrativa y permite explorar temas como la naturaleza de la realidad y el destino.
+  </p>
+</div>
+
+
 ![x](https://github.com/user-attachments/assets/6fbae6a9-2910-47a8-b007-8023b0e52f47)
 El multiverso es la teoria de la existencia de mas dimensiones que existen en un espacio mas alla del cosmos y el universo donde lo que existe son variables del universo que ya conocemos por ejemplo si en este universo el color verde en un semaforo significa avance en otro universo el color que indique esta accion podria ser otro
 para dar un ejemplo imagina que tienes varias hojas para dibujar para representar un universo puedes en la primer hoja dibujar una linea y de aqui en la segunda hoja el dibujo no es una linea sino un circulo,para hablar sobre un universo no es necesario decir que todo es diferente es posible que sea asi,pero lo que se habla sobre el multiverso es que los universos tienen una variacion y que ninguno es similar a los otros una argumentacion hecha por algunos investigadores y científicos dice lo siguiente:
