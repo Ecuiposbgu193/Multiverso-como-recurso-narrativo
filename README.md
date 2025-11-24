@@ -15,7 +15,7 @@ En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas c
 Marvel con su obra What If donde cada episodio es un universo diferente con tramas diferentes,episodios con diferentes finales a los canonicos,diferentes o cambios de roles entre los personajes, etc.
 <p style="text-align:center; font-size:28px;">"La teoria del multiverso"</p>
 <div style="display: flex; align-items: center;">
-  <img src="M2.jpg" width="300" style="margin-right: 20px;">
+  <img src="x.jpg" width="300" style="margin-right: 20px;">
 
   <p>
    La teoría del universo Amala en Shin Megami Tensei es un concepto complejo que abarca múltiples dimensiones y planos de existencia. Según la serie, Amala se refiere a un reino o estructura que conecta varios mundos y universos, permitiendo viajar entre ellos.
@@ -35,7 +35,7 @@ Implicaciones
 La teoría del universo Amala tiene implicaciones profundas en la serie Shin Megami Tensei, ya que sugiere que los eventos en un mundo pueden tener consecuencias en otros mundos y universos. Esto agrega una capa de complejidad a la narrativa y permite explorar temas como la naturaleza de la realidad y el destino.
 
 <div style="display: flex; align-items: center;">
-  <img src="x.jpg" width="300" style="margin-right: 20px;">
+  <img src="M2.jpg" width="300" style="margin-right: 20px;">
 
   <p>
    El multiverso es la teoria de la existencia de mas dimensiones que existen en un espacio mas alla del cosmos y el universo donde lo que existe son variables del universo que ya conocemos por ejemplo si en este universo el color verde en un semaforo significa avance en otro universo el color que indique esta accion podria ser otro
