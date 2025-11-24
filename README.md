@@ -96,16 +96,19 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 <p style="text-align:center; font-size:28px;">
   "CLASIFICACION DE LOS MULTIVERSOS"
 </p>
+
 >
 <h2 style=>Universo 1:</h2>
 <div style="display:flex; align-items:center;">
 <img src="Ficha1311.png" width="300">
 </div>
+
 >
 <h2 style=>Universo 2:</h2>
  <div style="display:flex; align-items:center;">
 <img src="Ficha1312.png" width="300">
 </div>
+
 >
 <h2 style=>Universo 3:</h2>
 <div style="display:flex; align-items:center;">
