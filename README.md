@@ -42,8 +42,16 @@ La teoría del universo Amala tiene implicaciones profundas en la serie Shin Meg
 para dar un ejemplo imagina que tienes varias hojas para dibujar para representar un universo puedes en la primer hoja dibujar una linea y de aqui en la segunda hoja el dibujo no es una linea sino un circulo,para hablar sobre un universo no es necesario decir que todo es diferente es posible que sea asi,pero lo que se habla sobre el multiverso es que los universos tienen una variacion y que ninguno es similar a los otros una argumentacion hecha por algunos investigadores y científicos dice lo siguiente: 
   </p>
 </div>
+
+<div style="display: flex; align-items: center;">
+  <img src="<img width="270" height="370" alt="image" src="https://github.com/user-attachments/assets/be9b6c43-6620-45de-a692-0940a2aab8c3" />
+" width="300" style="margin-right: 20px;">
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHugh_Everett_III&psig=AOvVaw3xzUerHJQgA-6eJGvCHem-&ust=1764043935711000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCcm_T1iZEDFQAAAAAdAAAAABAE
+  <p>
 Hugh Everett III um físico estadounidense dice lo siguiente sobre el multiverso:
 > Como investigador, propuse la teoría de los muchos mundos. Creo que cada vez que ocurre una decisión cuántica, el universo se divide, creando infinitas realidades paralelas. En una, tú lees esto; en otra, quizás nunca lo haces. No son fantasía, son consecuencias matemáticas de la mecánica cuántica.
+  </p>
+</div>
 
 Stephen Hawking un muy conocido Físico teórico y cosmólogo dice lo siguiente:
 > Desde mi perspectiva, el multiverso es una consecuencia natural de la inflación cósmica. Existen infinitos universos, cada uno con diferentes leyes físicas. Nuestro universo no es único; simplemente es uno de los tantos que pueden existir en el vasto paisaje del cosmos.
