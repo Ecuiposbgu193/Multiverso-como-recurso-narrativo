@@ -1,4 +1,6 @@
 <div style="display:flex; align-items:center;"><img src="https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/M1.jpg"> 
+
+  
   <p style="margin-left:20px;"></p>"Todo es posible cerca del infinito" En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas como:
 -Como se utilizan en las obras
 -Significados sobre el multiverso en diferentes perspectivas
