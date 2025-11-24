@@ -45,7 +45,7 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 </div>
 
 <p style="text-align:center; font-size:28px;">
- "Multiverso segun los filosofos"
+ "MULTIVERSO SEGUN LOS FILOSOFOS"
 </p>
 
 <div style="display: flex; align-items: center;">
@@ -89,7 +89,7 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 
 
 <p style="text-align:center; font-size:28px;">
-  "Clasificacion de los multiversos"
+  "CLASIFICACION DE LOS MULTIVERSOS"
 </p>
 
 
