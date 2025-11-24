@@ -10,7 +10,7 @@
 -Significados sobre el multiverso en diferentes perspectivas
 -EI pensamiento sobre el multiverso Hay personas que en sus obras hablan,meten o tiene de tema principal sobre el multiverso ;por ejemplo:
 Marvel con su obra What If donde cada episodio es un universo diferente con tramas diferentes,
-episodios con diferentes finales a los canonicos,diferentes o cambios de roles entre los personajes, etc.</span>   
+episodios con diferentes finales a los canonicos,diferentes o cambios de roles entre los personajes, etc.</span>
 
    
   </p>
