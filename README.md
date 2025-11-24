@@ -28,7 +28,7 @@ El término "Amala" proviene del sánscrito "amara", que significa "inmortal". E
 La Red Amala
 La Red Amala es un sistema de control que aprovecha el flujo de Magatsuhi, una forma de energía que conecta los mundos. Esta red permite viajar instantáneamente entre terminales, conocidas como Amala Drums, que están ubicadas en diferentes partes del mundo.
 Multiverso
-La serie Shin Megami Tensei sugiere que existen múltiples universos paralelos, cada uno con su propia versión de la realidad. Estos universos pueden interactuar entre sí a través de la Red Amala o mediante otros medios. Según algunas teorías, el multiverso está dividido en grupos de universos que pueden interactuar entre sí, pero requieren entidades poderosas para intervenir y permitir el viaje entre ellos.³
+La serie Shin Megami Tensei sugiere que existen múltiples universos paralelos, cada uno con su propia versión de la realidad. Estos universos pueden interactuar entre sí a través de la Red Amala o mediante otros medios. Según algunas teorías, el multiverso está dividido en grupos de universos que pueden interactuar entre sí, pero requieren entidades poderosas para intervenir y permitir el viaje entre ellos.
 Conexiones y Viajes
 Los personajes y demonios en la serie pueden viajar entre mundos y universos a través de la Red Amala o mediante otros medios. Sin embargo, estos viajes pueden ser peligrosos y requieren una gran cantidad de energía y conocimiento.
 Implicaciones
@@ -93,24 +93,15 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 
 
 >Universo 1:
-                                             <img width="791" height="362" alt="image" src="https://github.com/user-attachments/assets/3543b4ef-2361-4457-a434-057e41dc947c" /> 
+                                             <img width="791" height="150" alt="image" src="https://github.com/user-attachments/assets/3543b4ef-2361-4457-a434-057e41dc947c" /> 
 
-
->
->
 >Universo 2:
-                                             <img width="673" height="362" alt="image" src="https://github.com/user-attachments/assets/f0ac2b8b-deff-4c1a-80e9-9429cc8ec7f4" /> 
-
->
->
+                                             <img width="673" height="200" alt="image" src="https://github.com/user-attachments/assets/f0ac2b8b-deff-4c1a-80e9-9429cc8ec7f4" /> 
 
 >Universo 3:
-                                             <img width="826" height="362" alt="image" src="https://github.com/user-attachments/assets/18168f70-6ecd-444d-b958-9351ed715944" /> 
+                                             <img width="826" height="150" alt="image" src="https://github.com/user-attachments/assets/18168f70-6ecd-444d-b958-9351ed715944" /> 
 
 >
->
-
-
 Reporte de Errores:
 
              "multiverso025@gmail.com"
