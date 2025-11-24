@@ -1,6 +1,6 @@
-<div style="display:flex; align-items:center;"><img src="M1.jpg"><p style="margin-left:20px;">
+<div style="display:flex; align-items:center;"><img src="M1.jpg">  <p style="margin-left:20px;">
   
-</p> En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas como:
+<p> En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas como:
 -Como se utilizan en las obras
 -Significados sobre el multiverso en diferentes perspectivas
 -EI pensamiento sobre el multiverso Hay personas que en sus obras hablan,meten o tiene de tema principal sobre el multiverso ;por ejemplo:
