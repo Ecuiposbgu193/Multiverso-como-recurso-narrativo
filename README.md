@@ -46,7 +46,7 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 
 Filósofos
 <div style="display: flex; align-items: center;">
-  <img src="F1.jpg" width="300" style="margin-right: 20px;">
+  <img src="F1.jpg" width="200" style="margin-right: 20px;">
 
   <p>
     David Lewis dice:
@@ -56,7 +56,7 @@ Filósofos
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="F2.jpg" width="300" style="margin-right: 20px;">
+  <img src="F2.jpg" width="200" style="margin-right: 20px;">
 
   <p>
    Nick Bostrom Filósofo contemporáneo da su postura sobre el tema la cual es:
@@ -66,7 +66,7 @@ Filósofos
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="F3.jpg" width="300" style="margin-right: 20px;">
+  <img src="F3.jpg" width="200" style="margin-right: 20px;">
 
   <p>
   Gottfried Wilhelm Leibniz Filósofo clásico dice:
@@ -76,7 +76,7 @@ Filósofos
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="F4.jpg" width="300" style="margin-right: 20px;">
+  <img src="F4.jpg" width="200" style="margin-right: 20px;">
 
   <p>
  Immanuel Kant un filósofo alemán dice:
