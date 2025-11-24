@@ -29,9 +29,11 @@ La teoría del universo Amala tiene implicaciones profundas en la serie Shin Meg
   </p>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <img src="x.jpg" width="300" style="margin-right: 20px;">
 
-![x](https://github.com/user-attachments/assets/6fbae6a9-2910-47a8-b007-8023b0e52f47)
-El multiverso es la teoria de la existencia de mas dimensiones que existen en un espacio mas alla del cosmos y el universo donde lo que existe son variables del universo que ya conocemos por ejemplo si en este universo el color verde en un semaforo significa avance en otro universo el color que indique esta accion podria ser otro
+  <p>
+   El multiverso es la teoria de la existencia de mas dimensiones que existen en un espacio mas alla del cosmos y el universo donde lo que existe son variables del universo que ya conocemos por ejemplo si en este universo el color verde en un semaforo significa avance en otro universo el color que indique esta accion podria ser otro
 para dar un ejemplo imagina que tienes varias hojas para dibujar para representar un universo puedes en la primer hoja dibujar una linea y de aqui en la segunda hoja el dibujo no es una linea sino un circulo,para hablar sobre un universo no es necesario decir que todo es diferente es posible que sea asi,pero lo que se habla sobre el multiverso es que los universos tienen una variacion y que ninguno es similar a los otros una argumentacion hecha por algunos investigadores y científicos dice lo siguiente:
 Hugh Everett III um físico estadounidense dice lo siguiente sobre el multiverso:
 > Como investigador, propuse la teoría de los muchos mundos. Creo que cada vez que ocurre una decisión cuántica, el universo se divide, creando infinitas realidades paralelas. En una, tú lees esto; en otra, quizás nunca lo haces. No son fantasía, son consecuencias matemáticas de la mecánica cuántica.
@@ -59,7 +61,11 @@ Gottfried Wilhelm Leibniz Filósofo clásico dice:
 > Yo sostenía que Dios creó el mejor de los mundos posibles. En ese sentido, el concepto de multiverso implicaría que existen infinitos mundos posibles, pero solo uno —el nuestro— fue elegido por tener el mejor equilibrio entre orden y libertad.
 
 Immanuel Kant un filósofo alemán dice:
-> Para mí, el multiverso sería una idea regulativa: algo que no podemos experimentar directamente, pero que sirve para ampliar el pensamiento. Nos invita a pensar más allá de los límites de la experiencia posible.
+> Para mí, el multiverso sería una idea regulativa: algo que no podemos experimentar directamente, pero que sirve para ampliar el pensamiento. Nos invita a pensar más allá de los límites de la experiencia posible. 
+  </p>
+</div>
+
+
 
                                              >"Clasificación de los Multiversos"
 
