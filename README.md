@@ -1,4 +1,4 @@
-<div style="display:flex; align-items:center;"><img src="https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/M1.jpg" width="250"> 
+<div style="display:flex; align-items:center;"><img src="https://github.com/Ecuiposbgu193/Multiverso-como-recurso-narrativo/blob/main/M1.jpg"> 
 
   
   
