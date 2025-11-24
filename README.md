@@ -1,4 +1,6 @@
-<h1 style="text-align:center;">MULTIVERSO COMO RECURSO NARRATIVO</h1>
+<p style="text-align:center; font-size:28px;">
+  MULTIVERSO COMO RECURSO NARRATIVO
+</p>
 <div style="display: flex; align-items: center;">
   <img src="M1.jpg" width="300" style="margin-right: 20px;">
  <p>
