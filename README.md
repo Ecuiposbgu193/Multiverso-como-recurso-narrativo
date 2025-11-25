@@ -20,14 +20,14 @@ La teoría del universo Amala tiene implicaciones profundas en la serie Shin Meg
 <div style="display: flex; align-items: center;"><img src="M2.jpg" width="225" style="margin-right: 20px;"><p>
    El multiverso es la teoria de la existencia de mas dimensiones que existen en un espacio mas alla del cosmos y el universo donde lo que existe son variables del universo que ya conocemos por ejemplo si en este universo el color verde en un semaforo significa avance en otro universo el color que indique esta accion podria ser otro
 para dar un ejemplo imagina que tienes varias hojas para dibujar para representar un universo puedes en la primer hoja dibujar una linea y de aqui en la segunda hoja el dibujo no es una linea sino un circulo,para hablar sobre un universo no es necesario decir que todo es diferente es posible que sea asi,pero lo que se habla sobre el multiverso es que los universos tienen una variacion y que ninguno es similar a los otros.</p></div><p style="text-align:center; font-size:28px;"><span style="color:gold;">"MULTIVERSO SEGUN LOS FILOSOFOS"</span></p><div style="display: flex; align-items: center;">
-   <img src="F1.jpg" width="100" style="margin-right: 20px;"><p>David Lewis dice:
+   <img src="F1.jpg" width="70" style="margin-right: 20px;"><p>David Lewis dice:
 > Yo defiendo el realismo modal: todos los mundos posibles existen realmente, no solo como ideas. Cada posible versión de los hechos ocurre en un universo distinto. No es que imaginemos alternativas; esas alternativas existen de verdad.
 
   </p>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="F2.jpg" width="100" style="margin-right: 20px;">
+  <img src="F2.jpg" width="70" style="margin-right: 20px;">
 
   <p>
    Nick Bostrom Filósofo contemporáneo da su postura sobre el tema la cual es:
@@ -37,7 +37,7 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="F3.jpg" width="100" style="margin-right: 20px;">
+  <img src="F3.jpg" width="70" style="margin-right: 20px;">
 
   <p>
   Gottfried Wilhelm Leibniz Filósofo clásico dice:
@@ -47,7 +47,7 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="F4.jpg" width="100" style="margin-right: 20px;">
+  <img src="F4.jpg" width="70" style="margin-right: 20px;">
 
   <p>
  Immanuel Kant un filósofo alemán dice:
