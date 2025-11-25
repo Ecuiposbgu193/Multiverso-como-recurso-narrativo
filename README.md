@@ -1,6 +1,6 @@
 <p style="text-align:center; font-size:28px;">"MULTIVERSO COMO RECURSO NARRATIVO"</p>
 <div style="display: flex; align-items: center;">
-   <img src="M1.jpg" width="300" style="margin-right: 20px;">
+   <img src="M1.jpg" width="300" style="margin-right: 20px;"></div>
    <span style="color:gold;">"Todo es posible cerca del multiverso"
    <span style="color:red;">En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas como:
 -Como se utilizan en las obras
@@ -9,8 +9,7 @@
 Marvel con su obra What If donde cada episodio es un universo diferente con tramas diferentes,
 episodios con diferentes finales a los canonicos,diferentes o cambios de roles entre los personajes, etc.  
 </span>
-</div>
-</div>     
+</div>    
 <p style="text-align:center; font-size:28px;">"LA TEORIA DEL MULTIVERSO"</p><div style="display: flex; align-items: center;"><img src="x.jpg" width="300" style="margin-right: 20px;"><p>La teoría del universo Amala en Shin Megami Tensei es un concepto complejo que abarca múltiples dimensiones y planos de existencia. Según la serie, Amala se refiere a un reino o estructura que conecta varios mundos y universos, permitiendo viajar entre ellos.
 Orígenes y Significado
 El término "Amala" proviene del sánscrito "amara", que significa "inmortal". En el contexto de Shin Megami Tensei, Amala se asocia con la idea de un reino o dominio que trasciende el tiempo y el espacio.</p></div>La Red Amala La Red Amala es un sistema de control que aprovecha el flujo de Magatsuhi, una forma de energía que conecta los mundos. Esta red permite viajar instantáneamente entre terminales, conocidas como Amala Drums, que están ubicadas en diferentes partes del mundo.
