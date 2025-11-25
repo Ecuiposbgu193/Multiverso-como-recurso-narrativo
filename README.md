@@ -7,8 +7,7 @@
 -Significados sobre el multiverso en diferentes perspectivas
 -EI pensamiento sobre el multiverso Hay personas que en sus obras hablan,meten o tiene de tema principal sobre el multiverso ;por ejemplo:
 Marvel con su obra What If donde cada episodio es un universo diferente con tramas diferentes,
-episodios con diferentes finales a los canonicos,diferentes o cambios de roles entre los personajes, etc.  
-</span>
+episodios con diferentes finales a los canonicos,diferentes o cambios de roles entre los personajes, etc.  </span>
 </div>    
 <p style="text-align:center; font-size:28px;">"LA TEORIA DEL MULTIVERSO"</p><div style="display: flex; align-items: center;"><img src="x.jpg" width="300" style="margin-right: 20px;"><p>La teoría del universo Amala en Shin Megami Tensei es un concepto complejo que abarca múltiples dimensiones y planos de existencia. Según la serie, Amala se refiere a un reino o estructura que conecta varios mundos y universos, permitiendo viajar entre ellos.
 Orígenes y Significado
