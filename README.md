@@ -58,8 +58,9 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 <p style="text-align:center; font-size:28px;"><span style="color:gold;">"CLASIFICACION DE LOS MULTIVERSOS"</span></p>
 
 
-            
-        Universo 1:
+      
+<span style="color:gold;"> Universo 1: </span>
+        
 <div style="display:flex; align-items:center;">
 <img src="Ficha1311.png" width="500">
 </div>
@@ -67,7 +68,8 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 
 
          
-         Universo 2:
+<span style="color:gold;"> Universo 2: </span>
+
  <div style="display:flex; align-items:center;">
 <img src="Ficha1312.png" width="500">
 </div>
@@ -75,7 +77,8 @@ para dar un ejemplo imagina que tienes varias hojas para dibujar para representa
 
 
               
-          Universo 3:
+<span style="color:gold;">Universo 3:</span>
+
 <div style="display:flex; align-items:center;">
   <img src="Ficha1313.png" width="500">
 </div>
