@@ -1,4 +1,4 @@
-<p style="text-align:center; font-size:28px;">"MULTIVERSO COMO RECURSO NARRATIVO"</p>
+<p style="text-align:center; font-size:28px;"><span style="color:lilac;">"MULTIVERSO COMO RECURSO NARRATIVO"</span></p>
 <div style="display: flex; align-items: center;">
    <img src="M1.jpg" width="300" style="margin-right: 20px;">
    <span style="color:red;"><span style="color:gold;"><h1 style="text-align:center;">"Todo es posible cerca del multiverso"</h1></span>En esta pagina veras lo que seria los multiversos en la ficcion, veremos temas como:
