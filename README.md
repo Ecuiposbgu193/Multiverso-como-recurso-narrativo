@@ -8,7 +8,7 @@
 -EI pensamiento sobre el multiverso Hay personas que en sus obras hablan,meten o tiene de tema principal sobre el multiverso ;por ejemplo:
 Marvel con su obra What If donde cada episodio es un universo diferente con tramas diferentes,
 episodios con diferentes finales a los canonicos,diferentes o cambios de roles entre los personajes, etc.  
-  <p style="text-align:center;font-size:28px;"><span style="color:pink;">"Todo es posible cerca del multiverso"</span></p>
+  <p style="text-align:center;font-size:28px;"><span style="color:golden;">"Todo es posible cerca del multiverso"</span></p>
 </span>
 </div>
 <p style="text-align:center; font-size:28px;">
