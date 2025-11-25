@@ -9,7 +9,7 @@
 Marvel con su obra What If donde cada episodio es un universo diferente con tramas diferentes,
 episodios con diferentes finales a los canonicos,diferentes o cambios de roles entre los personajes, etc.  </span>
 </div>
-<p style="text-align:center;font-size:28px;">"Todo es posible cerca del multiverso</p>
+<p style="text-align:center;font-size:28px;"><span style="color:#00ff00;">"Todo es posible cerca del multiverso"</span></p>
 <p style="text-align:center; font-size:28px;">
  "LA TEORIA DEL MULTIVERSO"
 </p>
